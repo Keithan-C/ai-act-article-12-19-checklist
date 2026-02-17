@@ -1,0 +1,1 @@
+# ai-act-article-12-19-checklist
