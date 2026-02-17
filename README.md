@@ -63,7 +63,7 @@ For Automotive OTA and ADAS Teams | August 2026 Deadline
 [ ] Gap remediation plan documented and dated
 
 ## STATUS SUMMARY
-Last reviewed: [Date]
-Reviewed by: [Name, role]
-Overall status: [ ] Green [ ] Amber [ ] Red
-Next review date: [Date]
+Last reviewed: [17.02.26]
+Reviewed by: [Keithan, LXD Advisory]
+Overall status: [] Green [ ] Amber [ ] Red
+
