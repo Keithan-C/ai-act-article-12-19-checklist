@@ -1,5 +1,6 @@
 # EU AI Act — Article 12 & 19 Compliance Checklist
 For Automotive OTA and ADAS Teams | August 2026 Deadline
+Complete the checklist, and I'll jump on a 15-minute call to prioritize your next 3 actions
 
 ## ARTICLE 12 — LOGGING CAPABILITY
 
